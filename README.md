@@ -8,7 +8,7 @@ However, This software gives you a sense of what you’re doing in the hospital 
 # The following are the main characteristics:
 The following are the primary features of the Clinic Management System Project in Laravel with Source Code, which are particularly useful for all types of users.
 
-# Admin Features: Clinic Management System in Laravel
+### Admin Features: Clinic Management System in Laravel
 * Patient Management
 * Manage Appointment
 * Department Management
